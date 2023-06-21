@@ -48,7 +48,7 @@ print("\nd =", d)
 
 
 # un numar prim n
-x = n -100  
+x = n - 100
 print("\nx =", x)
 
 
